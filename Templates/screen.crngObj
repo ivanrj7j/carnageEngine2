@@ -1,0 +1,9 @@
+{
+    "type": "0",
+    "dimensions": {
+      "x": 500,
+      "y": 500
+    },
+    "title": "Carnage Engine",
+    "defaultScene" : "Templates/default.crngScn"
+  }

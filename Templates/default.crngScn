@@ -1,6 +1,6 @@
 {
     "type":0,
     "Name": "Default Scene",
-    "Objects":[],
+    "Objects":["square.crngObj"],
     "defaultBG": [255, 255, 255]
   }
